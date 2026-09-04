@@ -68,7 +68,7 @@ def check_bits(payload):
 # boolean check true = 1 , false = 0
 # explicitly check the block booleans to protect our math 
 
-    if not isinstance(num,bool) or  isinstance(num,int):
+    if not isinstance(num,bool) or not isinstance(num,int):
         raise TypeError("Strict Integer Required ! ")
 
     # Resource Protection ! 
@@ -95,3 +95,18 @@ try:
 except Exception as e:
     print(e) 
 
+
+# 1 . Boolean Hack 
+# Attempting to pass true Value
+try :
+    check_bits({"val_x":True})
+
+except Exception as e :
+    print(e)
+ 
+# 2. Ai Raw String Hack 
+try:
+    check_bits(42)
+
+except Exception as e :
+    pass
