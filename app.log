@@ -1,2 +1,17 @@
 2026-09-05 14:14:52 - INFO - Storage file found at: /mnt/LinuxData/ProtectiveProgramming/dfin/validated_users.json
 2026-09-05 14:15:02 - WARNING - Validation FAILED: {'username': "Username 'aseel' is already taken"}
+2026-09-05 16:52:48 - ERROR - Failed to create storage file : 'Logger' object has no attribute 'json'
+2026-09-05 16:53:59 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 16:55:45 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 16:58:00 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 16:58:12 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 16:58:25 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 17:00:10 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 17:00:34 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 17:01:44 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 17:02:30 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 17:03:18 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 17:03:40 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 17:04:54 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 17:05:58 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
+2026-09-05 17:12:50 - INFO - Storage File found at : /mnt/LinuxData/ProtectiveProgramming/dfin/validate_users.json
