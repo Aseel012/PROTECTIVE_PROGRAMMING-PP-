@@ -1,0 +1,2 @@
+2026-09-05 14:14:52 - INFO - Storage file found at: /mnt/LinuxData/ProtectiveProgramming/dfin/validated_users.json
+2026-09-05 14:15:02 - WARNING - Validation FAILED: {'username': "Username 'aseel' is already taken"}
